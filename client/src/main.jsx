@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-syacae2yn3gq1mfy.us.auth0.com"
      clientId="ZhSXJjcNQSB1zKuAnRwW98Sci8873vNG"
      authorizationParams={{
-      redirect_uri: "https://flat-dekho350.vercel.app/"
+      redirect_uri: "https://flet-dekho9.vercel.app/"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
